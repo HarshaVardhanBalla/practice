@@ -2,4 +2,3 @@ my first test
 added in remote
 branch changes
 master changes checkout checking in local
-for stashing
